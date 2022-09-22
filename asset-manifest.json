@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/homestart-tailwind/static/css/main.84a9cd86.css",
+    "main.js": "/homestart-tailwind/static/js/main.9359fa05.js",
+    "static/media/couch.png": "/homestart-tailwind/static/media/couch.cb4ec7761ad480fa89ad.png",
+    "static/media/table.png": "/homestart-tailwind/static/media/table.4bf6a601e1b8ccb03af1.png",
+    "static/media/app.svg": "/homestart-tailwind/static/media/app.45288807dfeef78f73dd00c69238962c.svg",
+    "static/media/partner4.svg": "/homestart-tailwind/static/media/partner4.a3fb47776b4e75838361aae55bb77007.svg",
+    "static/media/dots.svg": "/homestart-tailwind/static/media/dots.56a416450b25edba8867.svg",
+    "static/media/logo.svg": "/homestart-tailwind/static/media/logo.f960af0a37f151a574e391c92c14e4bd.svg",
+    "static/media/partner7.svg": "/homestart-tailwind/static/media/partner7.a6d761580694806f158bf5a4a122c1c0.svg",
+    "static/media/partner2.svg": "/homestart-tailwind/static/media/partner2.65943ceeb2281bdfb9f789bf4cc7773a.svg",
+    "static/media/partner5.svg": "/homestart-tailwind/static/media/partner5.9ac1e07b6618c100415aa230b97c539a.svg",
+    "static/media/partner1.svg": "/homestart-tailwind/static/media/partner1.4b6e156a80d1c689960680d1512d1069.svg",
+    "index.html": "/homestart-tailwind/index.html",
+    "static/media/partner6.svg": "/homestart-tailwind/static/media/partner6.7cb8a88cab2acc729c4fda0069874db6.svg",
+    "static/media/partner3.svg": "/homestart-tailwind/static/media/partner3.c5782ec9402a0abf2b638e75c9fd5c4b.svg",
+    "main.84a9cd86.css.map": "/homestart-tailwind/static/css/main.84a9cd86.css.map",
+    "main.9359fa05.js.map": "/homestart-tailwind/static/js/main.9359fa05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a9cd86.css",
+    "static/js/main.9359fa05.js"
+  ]
+}
